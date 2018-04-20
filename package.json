@@ -1,0 +1,25 @@
+{
+  "name": "exercicio_node",
+  "version": "1.0.0",
+  "description": "exercico usando node + express + visua code",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --report spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Obscure123xc/node_exercicio.git"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "express": "~4.16.3",
+    "mongoose": "*",
+    "request": "~2.85.0"
+  },
+  "author": "Ricardo Augusto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Obscure123xc/node_exercicio/issues"
+  },
+  "homepage": "https://github.com/Obscure123xc/node_exercicio#README.md"
+}
